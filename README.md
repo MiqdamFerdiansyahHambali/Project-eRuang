@@ -4,7 +4,7 @@
 
 1. Contributors : 
     1. Miqdam Ferdiansyah Hambali 
-    2. 
+    2. Muhamad Fauzan Nasrullah
     3. Chika Karena
     4. Khoirun Nisa
 
