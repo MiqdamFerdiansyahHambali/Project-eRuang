@@ -532,3 +532,13 @@ h6,
 .copyright a:hover {
     color: var(--primary);
 }
+
+.container .card .img-box {
+    width: 80px;
+    height: 50px;
+}
+
+.container .card img {
+    width: 100%;
+    object-fit: fill;
+}
