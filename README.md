@@ -13,8 +13,8 @@ created with :
     - Bootstrap 5.0.0 
     - Library CSS 
     - Library Admin LTE 
-    - Java Script 
-    - JQuery
+    - JavaScript 
+    - Library JavaScript
 
 3. login for admin :
     - username : admin
