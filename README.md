@@ -11,7 +11,7 @@
 2. Website e-Ruang Sewa Ruangan Nurul Fikri
 created with : 
     - Bootstrap 5.0.0 
-    - Library CSS 
+    - Library SCSS 
     - Library Admin LTE 
     - JavaScript 
     - Library JavaScript
